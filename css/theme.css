@@ -159,11 +159,11 @@ body{
 	background-image:none;
 	background-repeat:no-repeat;
 	background-size:cover;	
-	background: linear-gradient(left , rgb(58, 223, 148) 1% , rgb(211, 0, 0) 80%);
-background: -o-linear-gradient(left , rgb(58, 223, 148) 1% , rgb(211, 0, 0) 80%);
-background: -ms-linear-gradient(left , rgb(58, 223, 148) 1% , rgb(211, 0, 0) 80%);
-background: -moz-linear-gradient(left , rgb(58, 223, 148) 1% , rgb(211, 0, 0) 80%);
-background: -webkit-linear-gradient(left , rgb(58, 223, 148) 1% , rgb(211, 0, 0) 80%);
+	background: linear-gradient(left , rgb(228, 0, 0) 1% , rgb(250, 33, 123) 80%);
+background: -o-linear-gradient(left , rgb(228, 0, 0) 1% , rgb(250, 33, 123) 80%);
+background: -ms-linear-gradient(left , rgb(228, 0, 0) 1% , rgb(250, 33, 123) 80%);
+background: -moz-linear-gradient(left , rgb(228, 0, 0) 1% , rgb(250, 33, 123) 80%);
+background: -webkit-linear-gradient(left , rgb(228, 0, 0) 1% , rgb(250, 33, 123) 80%);
 }
 
 
